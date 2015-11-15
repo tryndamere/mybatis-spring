@@ -15,9 +15,9 @@
  */
 package org.mybatis.spring;
 
+import com.fc.platform.commons.page.Page;
 import org.apache.ibatis.exceptions.PersistenceException;
 import org.apache.ibatis.executor.BatchResult;
-import org.apache.ibatis.page.Page;
 import org.apache.ibatis.session.*;
 import org.springframework.dao.support.PersistenceExceptionTranslator;
 
